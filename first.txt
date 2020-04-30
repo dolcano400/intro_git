@@ -1,3 +1,4 @@
 practice git for the first time
 git add
 git commit
+git rm
